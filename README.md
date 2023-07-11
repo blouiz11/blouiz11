@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently looking for working about  with robotice engineer and machine leaning(ai) and learning another langues such as sql, java scrip and C# for improve myself while waiting apply for work.
 
 <!--
 **blouiz11/blouiz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
