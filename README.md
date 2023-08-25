@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently looking for working about  with software engineer and developer  another langues such as sql, java scrip and type(basic) for improve myself while waiting apply for work.
+- 🔭 I’m currently looking for working about  with software engineer and developer  another langues such as python, sql, java scrip and type(basic) for improve myself while waiting apply for work.
 
 <!--
 **blouiz11/blouiz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
